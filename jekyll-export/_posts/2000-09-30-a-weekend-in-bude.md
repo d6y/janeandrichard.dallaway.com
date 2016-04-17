@@ -1,0 +1,24 @@
+---
+id: 1088
+title: A weekend in Bude
+date: 2000-09-30T20:26:40+00:00
+author: jane
+layout: post
+guid: http://www.janeandrichard.co.uk/?p=1088
+permalink: /2000/09/a-weekend-in-bude/
+categories:
+  - General
+---
+We took ourselves away for a long weekend towards the end of September to Cornwall following a very successful week there last year.
+  
+We stayed in the Falcon Hotel in Bude for 3 nights and this was a fairly pleasant place to stay. Bude was fairly quiet, as we were just out of season.
+
+We drove up from Ealing on the Friday, taking it very gently as this was the time of the petrol shortage in the UK and we knew we needed to preserve as much as we could. As a result of the petrol problems, the roads were fairly quiet and so the journey was more pleasant than it may otherwise have been. Leaving Ealing it was raining almost all the way until we eft the M4, but soon brightened up.
+
+On our first day in Bude we started off by doing some retail therapy around the surfy shops of Bude, and I found bought some great gear. We grabbed some pasties from one of the bakeries and then drove to Widemouth Bay and flew the kite for quite a while whilst also watching some of the surfing, and the exploits of one chap attempting to kite surf. We then headed off down the coast and got as far as Tintagel (King Athur&#8217;s stone country) before driving back to Bude.
+
+Another day of kite flying, this time we headed off to Polzeath and unfurled the kite. We appeared to upset a dog, who wouldn&#8217;t leave us alone and just kept barking at the kite. His owner&#8217;s were surfers, and suddenly realised where their dog was and came to try and collect him. That was not an easy task. After that, we walked over the beach and had some lunch in a beach hut. This was quite a pleasant little spot, and had some more good surf shops for us to rummage through. We headed on to Newquay and got a little shopping done before the shops shut for the evening.
+
+We decided to make our drive back to London, an exploration time as well, and so we drove via devon which was the first time I&#8217;d spent much time around there. We drove firstly to Westward Ho! (yes, it really as an exclamation mark in it&#8217;s name) but weren&#8217;t very impressed. We drove around the River Taw and the view over the river from Saunton was beautiful. We drove on to Croyde Bay, which despite being small had some excellent surfing shops. We started walking down towards the beach, but didn&#8217;t have an awful lot of time before we would need to move the car, so unfortunately didn&#8217;t get that far. We drove on from Croyde Bay to Woolacombe, where we had a spot of lunch, and got some more kite flying in. The beach here was really pleasant, and again had a few surfers heading out from it.
+
+After a very pleasant weekend, we started the drive back towards London, and again as soon as we got onto the M4 it started raining again.

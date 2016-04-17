@@ -1,0 +1,10 @@
+---
+id: 727
+title: Yesterday was the worst
+date: 2002-11-13T09:54:00+00:00
+author: jane
+layout: post
+guid: http://www.janeandrichard.co.uk/2002/11/yesterday_was_the_worst
+permalink: /2002/11/yesterday_was_the_worst/
+---
+Yesterday was the worst Chesterfield to Brighton journey to date. I took the train again, and decided (very sensibly as it turned out) to get the 3.40pm train from Chesterfield &#8211; due to get me in (via a change in London) at around 7.30pm. However, there were problems between Bedford and Luton, so as soon as I got on the train they told us that we wouldn&#8217;t be going to London, we&#8217;d be terminating at Bedford. So, off the train goes, we get as far as Derby and then we sit and wait because &#8220;We&#8217;re sorry but the driver for this train is on a late running earlier train and will be with us shortly&#8221;. After about half an hour we get moving again. It turns out that the [power lines were down between Bedford and Flitwick](http://news.bbc.co.uk/1/hi/england/2453923.stm) which is why we couldn&#8217;t go beyond Bedford. At Bedford we all pile off the train and queue up for a connecting bus. After a 10 &#8211; 15 minute wait, I get on a bus and we make our way to Flitwick (25 mins away). At Flitwick they tell us that they haven&#8217;t seen any trains for 45 minutes and so they&#8217;ll ferry us on to Luton (35 mins away). We get to Luton, and get on a [Thameslink](http://www.thameslink.co.uk/) train which is going to Moorgate (via Kings Cross). The screens at Luton say that there is a shuttle service to Brighton running from Blackfriars. Hmmm&#8230;. Eventually we get to Kings Cross, and I decide that going to Victoria is the best option, and in fact as I get off the train that is what they are announcing. So.. a quick trip on the underground and finally a train from Victoria to Brighton getting me into Brighton at 10.10pm. Finally&#8230; so, a 7 hours 20 minute journey from leaving the Chesterfield Office and arriving back in Brighton. \*Shudder\*. No wonder I&#8217;m knackered today is there!
