@@ -1,0 +1,47 @@
+<album id="reeceandjack" date="2001-02-02" name="Reece and Jack" board="photos" path="img">
+<description>
+Rich's neice has just had her second son, Jack, so we went and had a look at him and his older brother Reece at the weekend.
+</description>
+<image selected="true" filenamestem="img_1328_640">
+	<caption>Reece the dinosaur</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1329_640">
+	<caption>Reece the giggling dinosaur</caption>
+	<description>Have you never seen a dinosaur giggle before?</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1335_640">
+	<caption>Jane and Jack</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1342_640">
+	<caption>Jack</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1344_640">
+	<caption>What's happening?</caption>
+	<description>Jack scratches his head and wonders what this bright flashing light is</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1350_640">
+	<caption>Is it dinner time yet?</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1353_640_bw-bw">
+	<caption>Rich and Jack</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+</album>

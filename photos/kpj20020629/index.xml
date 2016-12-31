@@ -1,0 +1,54 @@
+<album id="kpj20020629" date="2002-06-29" name="McConkey Visit" board="photos" path="img">
+<description>
+Karen, Paul and Juliet came to stay with us for a weekend.
+</description>
+<image selected="false" filenamestem="img_2047_640">
+	<caption>Juliet in shades</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2050_640">
+	<caption>Jane and Juliet</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_2051_640">
+	<caption>Juliet and Jane</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2054_640">
+	<caption>Juliet</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+
+<image selected="false" filenamestem="img_2057_640">
+	<caption>Juliet</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2058_640">
+	<caption>Juliet</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2063_640">
+	<caption>Mum and Juliet</caption>
+	<description>Kids love table mats.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2070_640">
+	<caption>Dad and Juliet</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

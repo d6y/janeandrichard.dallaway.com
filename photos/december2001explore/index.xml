@@ -1,0 +1,65 @@
+<album id="december2001explore" date="2001-12-22" name="December exploring" board="photos" path="img">
+<description>
+Despite it being very cold, the sun was shining and we decided to head out on a bit of an explore of the coast towards and beyond Worthing.  We had beach stops at Widewater Lagoon, Pagham and Selsey, and a lunch stop at the Marine Gardens Restaurant in Worthing.  
+</description>
+<image selected="false" filenamestem="img_1052_adjusted_640">
+	<caption>View from Widewater lagoon</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1053_640_bw-bw">
+	<caption>Richard and Mum dressed for cold weather</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1054_640_bw-bw">
+	<caption>Dad takes a photo</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1055_640">
+	<caption>View from Pagham</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_1059_640">
+	<caption>Dad, Richard and Mum</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1062_640">
+	<caption>Sunset over Selsey</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1064_640">
+	<caption>Selsey again</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1068_640">
+	<caption>The lifeboat at Selsey</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1070_640">
+	<caption>Underneath the lifeboat walkway</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1071_640">
+	<caption>A beached boats</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

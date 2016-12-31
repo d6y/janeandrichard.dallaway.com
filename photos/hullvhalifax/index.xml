@@ -1,0 +1,27 @@
+<album id="hullvhalifax" date="2001-08-29" name="Hull v Halifax" path="img" board="photos">
+<description>We went to see the Hull City game against Halifax at Boothferry Park, Hull on the 29th September 2001.  It was a good game, and resulted in us being 2nd in the league again.  </description>
+<image selected="true" filenamestem="img_0592_640">
+	<caption>The West Stand</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0593_640">
+	<caption>During the first half</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0594_640">
+	<caption>Spot the Ball</caption>
+	<description>This looks like the kind of picture that would be in a "Spot the Ball" competition</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0599_640">
+	<caption>Start of the Second Half</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

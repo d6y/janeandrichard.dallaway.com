@@ -1,0 +1,47 @@
+<album id="midfebbikeride" date="2002-02-10" name="Mid Feb bike ride" board="photos" path="img">
+<description>
+Paul, Rich and I went out for a ride, and revisited one of the rides we've done before (it's the ride where Rich and his bike parted company a few weeks ago).
+</description>
+<image selected="false" filenamestem="img_1362_640">
+	<caption>Mud track</caption>
+	<description>The trail had dried out quite a bit since the last time we'd been out on it.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1363_640">
+	<caption>Paul</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1364_640">
+	<caption>A view</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1368_640">
+	<caption>Time for a break</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1369_640">
+	<caption>Horses ahead of us</caption>
+	<description>Although Paul was close to catching them up when he went speeding down the hill</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_1371_640">
+	<caption>Richard and Paul</caption>
+	<description>I thought it would be nice to have an action shot :-)</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1376_640">
+	<caption>Surfer dudes!</caption>
+	<description>The surfers were out in force again, although the waves looked a bit, er, messy </description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

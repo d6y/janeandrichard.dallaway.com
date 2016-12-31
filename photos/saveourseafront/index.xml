@@ -1,0 +1,48 @@
+<album id="saveourseafront" date="2002-02-27" name="Save our seafront protest" board="photos" path="img">
+<description>
+Today there was a demonstration against a large development that is part of the
+renovation of the West Pier.  It's a picket across the entrance of a hotel where I believe 
+the plans were being discussed by the developers.  It's a bit cold and windy, but there
+were enough people to make an impression, and cars where hooting their approval
+as they went past.  I'm told that these plans and alternatives will be on display to the
+public in a few weeks.  More information over at the 
+<a href="http://www.saveourseafront.org.uk/">Save our seafront</a> site (they don't like the plan)
+and also at the <a href="http://www.westpier-trust.demon.co.uk/">West Pier Trust</a> site (who do like the plan, I think).
+</description>
+<image selected="false" filenamestem="img_1501">
+	<caption>The picket line</caption>
+	<description>The picket line outside the hotel, getting support from passing cars.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_1502">
+	<caption>Lots of placards</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1503">
+	<caption>Jazz band</caption>
+	<description>A jazz band was playing. Nice.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1504">
+	<caption>Another view of the band</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1505">
+	<caption>Banners along the sea front</caption>
+	<description>...and you can see the west pier to the right.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1500">
+	<caption>Protest being filmed</caption>
+	<description>From the other side of the road, someone films the protest.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

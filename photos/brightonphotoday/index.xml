@@ -1,0 +1,53 @@
+<album id="brightonphotoday" date="2001-12-13" name="Photo Day" board="photos" path="img">
+<description>
+Seeing as how both Joe and I were unemployed at this point of December, we decided it would be a good time to have a photo day down here in Brighton.  We'd forgotten quite how cold it would be, and neither of us took quite as many photos as we otherwise might have as it was just too tempting to keep our hands in our pockets.  Joe will put his photos up on his <a href="http://www.spunkythemonkey.co.uk">site</a> at some point (or so he keeps telling me).
+</description>
+<image selected="false" filenamestem="img_0981_640">
+	<caption>The West Pier</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_0991_640_bw-bw">
+	<caption>West Pier (B &amp; W)</caption>
+	<description>This photo has been converted into black and white, although it's hard to tell :-)</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1003_640">
+	<caption>One of the domes at the entrance</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1014_640">
+	<caption>The front of the pavilion</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1015_640">
+	<caption>The front again</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_1017_640">
+	<caption>And again</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1018_640">
+	<caption>Joe being a photographer</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1021_640">
+	<caption>And the front again</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

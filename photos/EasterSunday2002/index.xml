@@ -1,0 +1,41 @@
+<album id="EasterSunday2002" date="2002-03-31" name="Easter Sunday" board="photos" path="img">
+<description>
+Rich's folks came to visit, so we went for a walk along the seafront and along the Palace pier.  As we were heading off home, the Tall Elvis's arrived.
+</description>
+<image selected="false" filenamestem="img_1564_640">
+	<caption>Reece climbing</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1567_640">
+	<caption>Chips!</caption>
+	<description>Reece was too hungry to wait till we got home, so he got some fishcakes and chips from the shop in the pier.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1572_640">
+	<caption>Tall Elvises</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1573_640">
+	<caption>Shaking Elvis</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_1579_640">
+	<caption>Kicking Elvis</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1585_640">
+	<caption>Shuffling Elvis</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+</album>

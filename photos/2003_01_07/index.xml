@@ -1,0 +1,54 @@
+<album id='2003_01_07' date='2003-01-08' name='Winter night sky' path='img'>
+<description><p>New camera, new functions... I've never had a camera before where you can adjust the time the shutter stays open for.  So I had to go and play.  Shame it's winter and very cold, but it did make for a really clear sky and I'm pleased with what I learnt.  
+</p>
+<p>
+Unfortunately I didn't have a chance to change the settings on the camera much between shots (as I couldn't feel my fingertips any more) so I need to go and play another night - when it's a bit warmer!</p></description>
+<image selected='false' filenamestem='crw_4176_rj'>
+ <caption>Pub and moon</caption>
+ <description>The exposure time I chose was way too long for the available light.  I hadn't realised quite how much light the moon produced, so over compensated with a 15 second exposure time.  The moon was actually a crescent, not dis-similar in size to that in <a href="http://www.janeandrichard.co.uk/photos/latesummer2001/img_0585_640/">this image</a></description>
+<metadata>
+<setting name='Model' value='Canon PowerShot G3'/>
+<setting name='Date' value='2003-01-07'/>
+<setting name='Shutter speed' value='15 sec'/>
+<setting name='Focal length' value='7.2 mm'/>
+<setting name='Flash mode' value='No flash fired'/>
+<setting name='Macro mode' value='Normal'/>
+<setting name='White balance' value='Auto'/>
+<setting name='Aperture' value='2.0'/>
+</metadata>
+ <variant type='jpg' width='640' height='480' style='regular' />
+ <variant type='jpg' width='120' height='90' style='thumbnail' />
+</image>
+<image selected='false' filenamestem='crw_4177_rj'>
+ <caption>View over Brighton</caption>
+ <description>Just the lights in the distance, a bit of light pollution and a few stars</description>
+<metadata>
+<setting name='Model' value='Canon PowerShot G3'/>
+<setting name='Date' value='2003-01-07'/>
+<setting name='Shutter speed' value='15 sec'/>
+<setting name='Focal length' value='7.2 mm'/>
+<setting name='Flash mode' value='No flash fired'/>
+<setting name='Macro mode' value='Normal'/>
+<setting name='White balance' value='Auto'/>
+<setting name='Aperture' value='2.0'/>
+</metadata>
+ <variant type='jpg' width='640' height='480' style='regular' />
+ <variant type='jpg' width='120' height='90' style='thumbnail' />
+</image>
+<image selected='true' filenamestem='crw_4181_rj'>
+ <caption>Trees and Orion</caption>
+ <description>My favourite shot, and worth freezing my hands off for.  I had to take 3 or 4 of these to get the trees in the right place, but I'm pleased with the outcome.  I've adjusted the amount of red in this image as there was originally too much light pollution visible (more than in reality).</description>
+<metadata>
+<setting name='Model' value='Canon PowerShot G3'/>
+<setting name='Date' value='2003-01-07'/>
+<setting name='Shutter speed' value='15 sec'/>
+<setting name='Focal length' value='7.2 mm'/>
+<setting name='Flash mode' value='No flash fired'/>
+<setting name='Macro mode' value='Normal'/>
+<setting name='White balance' value='Auto'/>
+<setting name='Aperture' value='2.0'/>
+</metadata> 
+ <variant type='jpg' width='640' height='480' style='regular' />
+ <variant type='jpg' width='120' height='90' style='thumbnail' />
+</image>
+</album>

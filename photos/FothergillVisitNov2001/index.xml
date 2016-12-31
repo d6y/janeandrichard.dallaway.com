@@ -1,0 +1,105 @@
+<album id="FothergillVisitNov2001" date="2001-11" name="Jane's folks visit" path="img" board="photos">
+<description>My folks came down for a visit and so we took some time out to explore around the area a bit more.  We spent one day wandering around Brighton, getting them aclimatised to the area.  We spent one day exploring Devil's Dyke, Bramber castle, Poyning and Steyning.  The one rainy day of their visit we headed off to the Brighton Pavilion which was a very interesting way to spend a few hours.  Then on their final day we spent some time at the Marina, before driving off along the coast through Newhaven and Seaford and then on past the Long Man of Wilmington before stopping for a wander around Lewes.  All in all, a good excuse for exploring.</description>
+<image filenamestem="img_0874_640_bw-bw">
+	<caption>Brighton Pavilion</caption>
+	<description>Just an arty shot of Brighton Pavilion</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0875_640">
+	<caption>Peace statue</caption>
+	<description>The Peace Statue at the border of Hove and Brighton.  Taken with a bit of extra gain, hence the grainy appearance.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0881_640">
+	<caption>Mum</caption>
+	<description>She was looking at the Peace statue at the time</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0882_640">
+	<caption>Hove at night</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0907_640">
+	<caption>Tree at Bramber Castle</caption>
+	<description>I liked the light levels of this</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0909_640">
+	<caption>Mum and Dad at Bramber Castle</caption>
+	<description>I know this picture is a little bit dark, but it's a really nice picture of them.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0913_640">
+	<caption>View from Bramber Castle</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0916_640">
+	<caption>Castle Wall</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0921_640">
+	<caption>Bramber Castle</caption>
+	<description>or at least the remains of it...</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_0927_640">
+	<caption>Leaves in Steyning</caption>
+	<description>The White Horse Inn was covered with these leaves and looked really pretty.  We made it to the pub just in time for lunch, and the food (Scampi and chips all around) was pretty good.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0929_640">
+	<caption>Arundel Castle</caption>
+	<description>A more intact castle than the one at Bramber</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0930_640">
+	<caption>Sky at Arundel</caption>
+	<description>Just a pretty sky</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0936_640">
+	<caption>The Marina</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0937_640">
+	<caption>The Marina in sunlight</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0945_640">
+	<caption>Boats</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0951_640">
+	<caption>Lewes</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0953_640">
+	<caption>Lewes war memorial</caption>
+	<description>It just looked nice with the poppies laid at the base</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

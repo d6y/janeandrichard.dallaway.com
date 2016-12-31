@@ -1,0 +1,33 @@
+<album id="newjanus" date="2001-08-15" name="Advance Janus 3.1" path="img" board="photos">
+<description>After our trip to <a href="http://www.janeandrichard.co.uk/travel/pembrey/">Pembrey to learn how to parakart</a>, we decided to buy a traction kite.  And we decided to buy the kite we had the most success with on the day, an <a href="http://www.advance-kites.com/sitengine.php3?products/janus/index-en">Advance Janus</a> 3.1 metre kite.  We bought it through <a href="http://www.paraventure.co.uk">Paraventure</a> (who we did the course with).  These photos were taken when we took the kite out into the garden so we could get the lines tied on.</description>
+<image filenamestem="img_0303_640">
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+	<caption>The new kite in it's bag</caption>
+	<description></description>
+</image>
+<image filenamestem="img_0305_640">
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+	<caption>Laid out on the grass with it's bottom on show</caption>
+	<description></description>	
+</image>
+<image selected="true" filenamestem="img_0307_640">
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+	<caption>Richard gives us something to show the size of the new kite against</caption>
+	<description>Just for the pedants amongst you, Richard is 5ft 10, so our kite is quite a bit bigger than him.  It's 3.1 metres squared.  And should be able to generate a good bit of power in the right conditions.</description>
+</image>
+<image filenamestem="img_0308_640">
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+	<caption>The bird's eye view</caption>
+	<description></description>
+</image>
+<image filenamestem="img_0309_640">
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+	<caption>Rich, the kite, the laptop and our neighbour's car</caption>
+	<description>Yeah, unfortunately, the MGF isn't ours.  We have a nice kite though :-)</description>	
+</image>
+</album>

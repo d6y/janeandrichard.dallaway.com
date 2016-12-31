@@ -1,0 +1,36 @@
+<album id="catherine04" date="2002-07-07" name="Catherine's 4th birthday" board="photos" path="img">
+<description>
+Armed with Connect 4 we headed off to Goulbourn Manor to celebrate Catherine's 4th birthday...
+</description>
+<image selected="true" filenamestem="img_2092_640">
+	<caption>Catherine and Christopher</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2093_640">
+	<caption>In the house/slide thing</caption>
+	<description>Christoper enjoys going down the slide head first.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2097_640">
+	<caption>On the slide</caption>
+	<description>Catherine about to run or dive down the slide.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2098_640">
+	<caption>On the swing</caption>
+	<description>Catherine runs across the path of brother, who is being pushed by Richard.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2090_640">
+	<caption>Catherine in goal</caption>
+	<description>A well known goalkeeping technique of sticking your tongue out at the ball.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+
+</album>

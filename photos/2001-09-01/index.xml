@@ -1,0 +1,51 @@
+<album name="Hugo" path="img" board="photos">
+<description>Photos taken at the "Welcome to the World Hugo" party held at Amersham on 1st September 2001.  Hugo was 11 weeks old.</description>
+<image filenamestem="img_0476">
+	<caption>Sleeping Hugo</caption>
+	<description>When we arrived at the party, Hugo was having a little sleep.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0478">
+	<caption>"I can blow bubbles too"</caption>
+	<description>Hugo practices blowing bubbles with milk.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0480">
+	<caption>Hugo</caption>
+	<description>Sleepy? Quizical? Full?  Who can say.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0482">
+	<caption>Hugo with one of Lucy's friends</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0483">
+	<caption>Kate and Hugo</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0484">
+	<caption>Kate and Hugo again</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0485">
+	<caption>A quick snooze</caption>
+	<description>Hugo has a quick snooze.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="bw">
+	<caption>Smiling boy!</caption>
+	<description>And finally Hugo gives us a smile for the camera.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+</album>

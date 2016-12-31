@@ -1,0 +1,22 @@
+<album id="bw-5-sep-2001" date="2001-09-05" name="Garden Shots" path="img" board="photos">
+<description>Just some photos taken in our back garden really.  Nothing really exciting I'm afraid.  Just playing with the Canon S20 and seeing what it's capable of/</description>
+
+<image filenamestem="img_0500">
+	<caption>Pink geranium</caption>
+	<description>Trying out the macro mode on the S20</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_0508">
+	<caption>A wall tile</caption>
+	<description>The people who owned the house before us left us a lot of plants, and also some tiles.  This is one of them.  Again just testing out the various modes on the S20.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0510">
+	<caption>Black and white ducks...</caption>
+	<description>Another thing we were left was a duck wind chime.  This photo was taken at Gain +2 and then converted into black and white and has got a bit of a feeling of grain about it.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+</album>

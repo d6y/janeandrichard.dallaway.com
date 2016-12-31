@@ -1,0 +1,54 @@
+<album id="april2002" date="2002-04" name="A Sunny April in Brighton" board="photos" path="img">
+<description>
+The weather here in Brighton this April has been lovely.  These are a selection of photos taken during the month.
+</description>
+<image selected="false" filenamestem="img_1645_640">
+	<caption>Surfer dude</caption>
+	<description>By the west pier</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_1647_640">
+	<caption>Sleepers</caption>
+	<description>I couldn't resist taking this photo
+	</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1648_640">
+	<caption>The Goodwill ball</caption>
+	<description>This was the ball which people could sign to give England their best wishes, or something</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1650_640">
+	<caption>Beach volleyball</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1651_640">
+	<caption>Crowds</caption>
+	<description>and it's only April</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1657_640">
+	<caption>Kite surfer</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1659_640">
+	<caption>Another kite surfer</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1662_640">
+	<caption>And another one</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+</album>

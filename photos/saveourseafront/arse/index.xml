@@ -1,0 +1,10 @@
+<album id="arse" date="yyyy-mm-dd" name="Short title here" board="photos" path="img">
+<description>
+</description>
+<image selected="false" filenamestem="img_1500">
+	<caption></caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

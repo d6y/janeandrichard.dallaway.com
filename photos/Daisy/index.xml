@@ -1,0 +1,71 @@
+<album id="Daisy" date="2002-02-17" name="Daisy" board="photos" path="img">
+<description>
+We went to see Simes and Steff and meet baby Daisy today.  She's just a month old, and is really sweet.
+</description>
+<image selected="false" filenamestem="img_1440_640">
+	<caption>Simes and Charlie</caption>
+	<description>Charlie is a total fluff monster, and remember NEVER WEAR BLACK CLOTHES WHEN VISITING!</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_1441_640">
+	<caption>Steff and Daisy</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1442_640">
+	<caption>Simes operates</caption>
+	<description>Simes decided it was time Charlie had a bit of a manicure - so out came the nail clippers</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1443_640">
+	<caption>Jane and Daisy</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1448_640">
+	<caption>Daisy</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1449_640">
+	<caption>and again</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1450_640">
+	<caption>and again</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1453_640">
+	<caption>and one last time</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1458_640">
+	<caption>Simes and Steff</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1461_640">
+	<caption>Charlie</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1462_640">
+	<caption>Simes, Steff, Daisy, Charlie and the telephone</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+</album>

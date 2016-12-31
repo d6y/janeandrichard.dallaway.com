@@ -1,0 +1,35 @@
+<album id="shortaprilbikeride" date="2002-04-14" name="A short bike ride in April" board="photos" path="img">
+<description>
+We collected Susie and took her out for a gentle Sunday cycle.  We cycled down Marine Parade, and discovered the Morris Minor Car Rally before heading off through the Marina, to Rottingdean and back over the clifftops into Brighton.  A gentle but pleasant cycle.
+</description>
+<image selected="true" filenamestem="img_1633_640">
+	<caption>A collection of Morris Minors</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1634_640">
+	<caption>More Morris Minors</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1635_640">
+	<caption>A pretty bow</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1636_640">
+	<caption>Susie gets the camera out</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1638_640">
+	<caption>The view from one of the highest points</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

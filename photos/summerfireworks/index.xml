@@ -1,0 +1,39 @@
+<album id="summerfireworks" date="2001-08-25" name="Summer Fireworks" path="img" board="photos">
+<description>Our first Saturday night in Brighton.  We'd spotted a poster on the pier telling us that there was a fireworks display every Saturday from the 1st July through to the 1st September.  We thought we'd go and investigate.</description>
+<image filenamestem="img_0448_640">
+	<caption>Fireworks over Palace Pier</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_0449_640">
+	<caption>The finale</caption>
+	<description>The fireworks were really good, and lasted for about 10 or so minutes.  Good value for money (it was free).  We were on the wrong side of the pier for best viewing though as we were between Palace pier and West Pier whereas the fireworks were to the Kemp Town side of the pier.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0449_640-bw">
+	<caption>The finale (black and white version)</caption>
+	<description>I just converted the image from full colour to black and white to see how it looked.  I quite liked it so it's here too.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0453_480">
+	<caption>Jane sits on the beach</caption>
+	<description>Richard took this photo of me, sitting in front of the West Pier.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0465_480">
+	<caption>The West Pier</caption>
+	<description>Okay, so the West Pier is a bit run-down, and unfit for public access but apparently by 2003 it will be refitted to it's 1920's hayday, and will be open to the public again.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0465_480-bw">
+	<caption>The West Pier (black and white)</caption>
+	<description>As before, I just converted the image to be grayscale to see what it looked like, and again I liked the result.  So it stays.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+</album>

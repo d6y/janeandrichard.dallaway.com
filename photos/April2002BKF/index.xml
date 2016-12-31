@@ -1,0 +1,23 @@
+<album id="April2002BKF" date="2002-04-11" name="BKF Fly in April 2002" board="photos" path="img">
+<description>
+We attended our first Brighton Kite Flyers fly in at Stanmer Park.
+</description>
+<image selected="true" filenamestem="img_1625_640">
+	<caption>Rich flies our kite</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1627_640">
+	<caption>The huge "doughnut"</caption>
+	<description>This is fantastic, it makes a wonderful sounds as it rotates</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1628_640">
+	<caption>Line goodies</caption>
+	<description>I especially like the cow</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

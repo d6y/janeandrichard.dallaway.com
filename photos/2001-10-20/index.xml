@@ -1,0 +1,39 @@
+<album id="2001-10-20" date="2001-10-20" name="Simes and Steff Visit" path="img" board="photos">
+<description>Simes and Steff came to visit us for the day, and as Simes couldn't remember ever being to Brighton before we thought we'd go for a wander to the pier.</description>
+<image filenamestem="img_0710_640">
+	<caption>The empty log flume on Brighton Pier</caption>
+	<description>We watched this for quite a while, and only saw 2 people get onto it.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0719_640">
+	<caption>Simes</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_0721_640">
+	<caption>Stuffy shows off her bump</caption>
+	<description>This photo was taken especially for Steff's friend Amanda in the US who has been nagging Steff to get a photo taken to show how big her bump is getting. :-)</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0723_640">
+	<caption>Stray dodgem cars</caption>
+	<description>Not sure whether these were hiding out of the way, or had been misbehaving!</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0728_640">
+	<caption>Rich, Simes and Steff on the pier</caption>
+	<description>This wasn't staged, although it looks like it.  Think they were looking out at the West Pier.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0729_640">
+	<caption>Sunset Reflection</caption>
+	<description>Whilst taking one of the pier shots, I noticed the sun reflecting on the side of the Waltzers.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+</album>

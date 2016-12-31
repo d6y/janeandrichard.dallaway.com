@@ -1,0 +1,35 @@
+<album id="daisy3" date="2002-04-06" name="Daisy" board="photos" path="img">
+<description>
+Steff and I met up in London to do some more wedding related shopping (successful day as it turned out).  Simes and Daisy came along too.
+</description>
+<image selected="false" filenamestem="img_1607_640">
+	<caption>Simes, Steff and Daisy</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_1611_640">
+	<caption>Daisy</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1615_640">
+	<caption>Steff and Daisy</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1618_640">
+	<caption>Simes!</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1621_640">
+	<caption>"Daisy pulls it off"</caption>
+	<description>No idea what this is about really, other than I spotted the posters just after we'd said Bye to Simes, Steff and Daisy and it seemed appropriate to take a photo of it.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+</album>

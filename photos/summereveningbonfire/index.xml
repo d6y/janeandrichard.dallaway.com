@@ -1,0 +1,35 @@
+<album id="summereveningbonfire" date="2002-08-17" name="August bonfire" board="photos" path="img">
+<description>
+We joined Jeremy, Kirsty and their friends Justin, Guy, Andy and Laura for a bbq on the beach.  As the evening drew in, it got quite chilly so we converted the bbq into a bonfire to keep warm.
+</description>
+<image selected="false" filenamestem="img_2552_640">
+	<caption>Elvis has left the building</caption>
+	<description>We didn't work out whether this was a really inventive stag party or not, but they were really impressive, whoever they were.</description>
+	<variant type='jpg' width='641' height='375' style='regular' />
+	<variant type='jpg' width='110' height='64' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2553_640">
+	<caption>Barbie time</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_2555_640">
+	<caption>Bonfire</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2556_640">
+	<caption>Jeremy and Kirsty and a bonfire</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_2564_640">
+	<caption>Jeremy, Kirsty and Guy</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

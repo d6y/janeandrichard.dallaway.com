@@ -1,0 +1,47 @@
+<album id="pancakes2002" date="2002-02-12" name="Pancake Day 2002" board="photos" path="img">
+<description>
+Hey, it's traditional now...  We had our first pancake party as a house warming when I moved into the studio flat in Ealing (in around 1996).  We've had them most years since then.  This years was a bit quieter with just Paul, Tess and James.
+</description>
+<image selected="false" filenamestem="img_1377_640">
+	<caption>Paul and an empty plate</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1381_640">
+	<caption>Blur!</caption>
+	<description>I think the camera moved a bit too much - sorry Tess!  Still, it stays as I quite like the effect.</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1385_640">
+	<caption>Paul in charge</caption>
+	<description>Paul took a turn with the pancake making</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_1386_640">
+	<caption>Jane and Paul</caption>
+	<description>Not sure why I'm pulling such a face!</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1387_640">
+	<caption>James</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1393_640">
+	<caption>James and the white rabbit!</caption>
+	<description>This is a rabbit I bought for Rich for Christmas, it's motorised and hops around the room</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1394_640">
+	<caption>Jamie playing</caption>
+	<description>James was playing with his shape sorter</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+</album>

@@ -1,0 +1,63 @@
+<album id="vintage" date="2001-11-04" name="Vintage Car Rally" path="img" board="photos">
+<description>Today was the London to Brighton vintage car rally, and as we didn't have anything better to do we thought we'd take a look.  The participants were pretty lucky as the day was mostly fine.</description>
+<image filenamestem="img_0784_640">
+	<caption>Cars arriving at Marine Parade</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0787_640">
+	<caption>Queueing to get past the finish post</caption>
+	<description>I'm not sure how much of a race as such this was.  There were a couple of guys commentating and they were talking to some of the drivers of the more interesting cars as they came over the finish line.  If there were a few "interesting" cars in a row then the queues built up.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_0789_640">
+	<caption>It's all done with steam</caption>
+	<description>Some of the cars looked to be getting a bit overheated by the time they arrived in Brighton</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0791_640">
+	<caption>Wrapped up and keeping warm</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0794_640">
+	<caption>At the finish line</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0796_640">
+	<caption>A cute dog amongst the spectators</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0799_640">
+	<caption>A smart yellow car</caption>
+	<description>I know nothing about the cars that were running, but I just took a few photos of the more interesting ones</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0800_640">
+	<caption>A maroon car</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0802_640">
+	<caption>That's a bike.... isn't it?</caption>
+	<description>You wouldn't catch me sitting in that wicker seat at the front of the bike.  I wonder how the driver gets to see the road ahead.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0805_640">
+	<caption>Its chain driven</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

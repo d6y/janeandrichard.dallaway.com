@@ -1,0 +1,24 @@
+<album id='2003_01_28' date='2003-01-29' name='West Pier Collapse II' path='img'>
+<description>Whilst we were in <a href="/travel/lesarcs2003/">Les Arcs</a>, the west pier had a <a href="http://www.janeandrichard.co.uk/photos/2002-12-30/">further collapse</a>.</description>
+<image selected='false' filenamestem='146_4662_croprotate'>
+ <caption>Further collapse</caption>
+ <description></description>
+<metadata><setting name='Model' value='Canon PowerShot G3'/><setting name='Date' value='2003-01-28 08:51'/><setting name='Aperture' value='F4'/><setting name='Shutter speed' value='1/256 sec'/><setting name='Focal length' value='23.0 mm'/><setting name='Exposure' value='1/400 sec'/><setting name='Subject distance' value='2114 m'/><setting name='Flash mode' value='No flash fired'/><setting name='Macro mode' value='Normal'/><setting name='White balance' value='Auto'/><setting name='Shooting mode' value='Manual'/></metadata>
+ <variant type='jpg' width='640' height='416' style='regular' />
+ <variant type='jpg' width='120' height='78' style='thumbnail' />
+</image>
+<image selected='false' filenamestem='146_4663'>
+ <caption>Birds fly</caption>
+ <description>Compare to <a href="http://www.janeandrichard.co.uk/photos/2002-12-30/img_3919/">this photo</a> and you can see the amount of the further collapse.</description>
+<metadata><setting name='Model' value='Canon PowerShot G3'/><setting name='Date' value='2003-01-28 08:51'/><setting name='Aperture' value='F4'/><setting name='Shutter speed' value='1/256 sec'/><setting name='Focal length' value='28.812 mm'/><setting name='Exposure' value='1/320 sec'/><setting name='Subject distance' value='1176 m'/><setting name='Flash mode' value='No flash fired'/><setting name='Macro mode' value='Normal'/><setting name='White balance' value='Auto'/><setting name='Shooting mode' value='Manual'/></metadata>
+ <variant type='jpg' width='640' height='480' style='regular' />
+ <variant type='jpg' width='120' height='90' style='thumbnail' />
+</image>
+<image selected='true' filenamestem='146_4664_rotated'>
+ <caption>Squashed</caption>
+ <description></description>
+<metadata><setting name='Model' value='Canon PowerShot G3'/><setting name='Date' value='2003-01-28 08:54'/><setting name='Aperture' value='F4'/><setting name='Shutter speed' value='1/256 sec'/><setting name='Focal length' value='28.812 mm'/><setting name='Exposure' value='1/400 sec'/><setting name='Subject distance' value='1411 m'/><setting name='Flash mode' value='No flash fired'/><setting name='Macro mode' value='Normal'/><setting name='White balance' value='Auto'/><setting name='Shooting mode' value='Manual'/></metadata>
+ <variant type='jpg' width='640' height='468' style='regular' />
+ <variant type='jpg' width='120' height='87' style='thumbnail' />
+</image>
+</album>

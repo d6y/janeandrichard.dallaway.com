@@ -1,0 +1,23 @@
+<album id="daisy2" date="2002-03-09" name="Daisy" board="photos" path="img">
+<description>
+Steff and Simon brought Daisy down to Brighton on Saturday (Steff and I went dress shopping whilst the boys looked after Daisy).
+</description>
+<image selected="false" filenamestem="img_1523_640">
+	<caption>Daisy waves</caption>
+	<description>Well, she moved her hand anyway!</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_1524_640">
+	<caption>A smile?</caption>
+	<description>Not sure if this constitutes a smile or not</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1525_640">
+	<caption>Looking left</caption>
+	<description>I think Steff was standing to her left as I took this one</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

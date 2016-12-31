@@ -1,0 +1,38 @@
+<album id="newyearseve2001" date="2001-12-31" name="New Years Eve" board="photos" path="img">
+<description>
+We'd expected there to be some fantastic firework display going on in Brighton, as there as for any other occasion.  And so Jono and Emma came down to celebrate with us.  Unfortunately the firework display and the Burning of the Clocks parade was cancelled due to a lack of sponsor, and so we had to make our own entertainment.  We went to <a href="http://www.theinternetpages.co.uk/england/brigh/fworks1/pyro.htm">Pyroman</a> (a firework shop in Brighton) and bought some proper fireworks and let them off down on the beach.  This turned out to be great fun, and we had a great view of fireworks going off all along the bay from Brighton round to Worthing.  Shame it was so very cold though.
+</description>
+<image selected="false" filenamestem="img_1173_640">
+	<caption>Preparing to get cold</caption>
+	<description>It was a really cold evening, so we got dressed up in all our warm clothing before leaving the house.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1178_640">
+	<caption>Clear sky</caption>
+	<description>No clouds, just the moon and some stars</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_1183_640">
+	<caption>Champagne!</caption>
+	<description>A bottle of Moet and a stylish plastic cup</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1184_640">
+	<caption>Rich with the video camera</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+
+<image selected="false" filenamestem="fireworks">
+	<caption>We launch our last rocket</caption>
+	<description>Jono and Richard walk to the waters edge to light the
+	firework.  Richard runs back, Jono saunters back as the firework
+	explodes.  (This is a 3.7M mpeg video file, so it may take a while to start.)</description>
+	<variant type='mpg' width='320' height='240' style='movie' />
+	<variant type='jpg' width='111' height='95' style='thumbnail' />
+</image>
+</album>

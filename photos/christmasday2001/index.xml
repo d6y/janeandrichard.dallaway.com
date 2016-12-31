@@ -1,0 +1,41 @@
+<album id="christmasday2001" date="2001-12-25" name="Christmas 2001" board="photos" path="img">
+<description>
+My parents and I spent Christmas day in Brighton this year, and went for a walk along the beach (before the rain started).
+</description>
+<image selected="true" filenamestem="img_1077_640">
+	<caption>Not just us</caption>
+	<description>We weren't the only ones walking along the beach</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1079_640">
+	<caption>The Beach</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1082_640">
+	<caption>Sea and light</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1083_640">
+	<caption>More sea and light</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1089_640">
+	<caption>My parents</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1091_640">
+	<caption>More sea and sunlight</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>

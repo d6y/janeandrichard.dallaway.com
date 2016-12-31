@@ -1,0 +1,29 @@
+<album id="churchillchristmas" date="2001-12-17" name="Churchill Square at Christmas" board="photos" path="img">
+<description>
+I was wondering around Churchill Square one day and got to thinking how pretty the decorations looked.
+</description>
+<image selected="true" filenamestem="img_1045_640">
+	<caption>View towards Debenhams</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1047_640">
+	<caption>Looking down at Santa's Grotto</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1048_640">
+	<caption>Interesting fabric decorations</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="false" filenamestem="img_1050_640">
+	<caption>Star trails</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+</album>

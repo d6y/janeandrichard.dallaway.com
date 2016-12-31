@@ -1,0 +1,105 @@
+<album id="jpdchristening" date="2001-09-30" name="James' Christening" path="img" board="photos">
+<description>These are some photos taken at the Christening of James Daniels on 30th September 2001.</description>
+<image filenamestem="img_0601_640">
+	<caption>Jason blows up a balloon</caption>
+	<description>Jason and Liz had some balloons in their car which caused great amusement to the kids, and great exhaustion to the adults.</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0602_640">
+	<caption>Richard tries to blow up a balloon</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0604_640">
+	<caption>Liz makes something out of a balloon</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0606_640">
+	<caption>Alex models the balloon hat</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0607_640">
+	<caption>Where did you get that hat?</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0608_640">
+	<caption>James sleeps through his party</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0609_640">
+	<caption>The children crowd around waiting for more balloons</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image selected="true" filenamestem="img_0616_640">
+	<caption>The Christening cake</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0619_640">
+	<caption>Rachel and Thomas</caption>
+	<description></description>
+	<variant type='jpg' width='481' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0620_640">
+	<caption>Speech time</caption>
+	<description>This could be a caption competition .... what <i><b>is</b></i> Steve thinking?</description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0626_640">
+	<caption>Liz shows off her bump</caption>
+	<description>Her baby is due in under a month - Good Luck Liz!</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0630_640">
+	<caption>Thomas eats a bread stick</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0635_640">
+	<caption>Thomas and Alex play</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+<image filenamestem="img_0637_640">
+	<caption>Sarah inspects a balloon</caption>
+	<description>Another potential for a caption competition....</description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0642_640">
+	<caption>James and Sam (his GodMother)</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0645_640">
+	<caption>James and Richard (his GodFather)</caption>
+	<description></description>
+	<variant type='jpg' width='480' height='640' style='regular' />
+	<variant type='jpg' width='82' height='110' style='thumbnail' />
+</image>
+<image filenamestem="img_0646_640">
+	<caption>James with Jane</caption>
+	<description></description>
+	<variant type='jpg' width='640' height='480' style='regular' />
+	<variant type='jpg' width='110' height='82' style='thumbnail' />
+</image>
+</album>
